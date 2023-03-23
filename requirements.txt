@@ -14,4 +14,4 @@ spacy-loggers==1.0.4
 stack-data==0.6.2
 tensorflow==2.8.0
 scikit-learn==1.2.2
-protoc==3.19.0
+protoc>=3.19.0
