@@ -7,7 +7,6 @@ opencv-python==4.7.0.72
 prompt-toolkit==3.0.38
 pure-eval==0.2.2
 python-dateutil==2.8.2
-scikit-learn==1.2.2
 smart-open==6.3.0
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
@@ -15,3 +14,4 @@ stack-data==0.6.2
 tensorflow==2.8.0
 scikit-learn==1.2.2
 protobuf==3.20.*
+yfinance==0.2.13
