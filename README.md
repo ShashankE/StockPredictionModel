@@ -6,3 +6,4 @@ Next, run the StockPredictionApp script which will load the model and train/pred
 
 Run it here!
 
+https://mybinder.org/v2/gh/ShashankE/StockPredictionModel.git/HEAD
