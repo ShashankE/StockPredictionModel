@@ -23,11 +23,8 @@ This program is designed to help people new to the stock market to learn and min
 
 # Research
 
-This project involved a significant amount of research into the stock market and machine learning techniques. The goal was to create a program that would be useful for people who are new to trading and want to learn how to make informed decisions about buying and selling stocks.
+My research involved collecting and analyzing vast amounts of historical data on stock prices, as well as identifying the most suitable machine learning algorithms and techniques for training the model. The research also involves investigating factors that influence stock prices, such as market trends, global economic conditions, and company news, and incorporating them into the model.
 
-The research involved gathering and analyzing large amounts of historical stock data, as well as studying various machine learning techniques and algorithms. The goal was to find the best machine learning approach for predicting stock prices and develop a model that could be easily used by traders.
+Furthermore, the research process also involves evaluating the performance of the model to ensure that it provides accurate predictions. This involves testing the model on a range of historical data sets and comparing its predictions to actual stock prices. The model's performance is then optimized by fine-tuning its parameters and adjusting its algorithms. By conducting extensive research, the stock prediction tool using machine learning can provide traders with more informed predictions of stock prices, thereby enhancing their trading strategies. Also learned about the machine learning process itself, with gradient decent and neural network layers/training.
 
-The result of this research is a powerful tool that can help new traders to learn and minimize losses. By using the program to predict future stock prices, traders can make informed decisions about when to buy and sell, increasing their chances of success in the stock market.
-
-
-
+The stock prediction tool using machine learning can be a valuable resource for new traders in the stock market. By providing more informed predictions of stock prices, the tool can help traders to make better decisions about when to buy and sell stocks. It can also assist in minimizing losses and identifying potential opportunities for investment. Moreover, the tool's ability to provide insights into the factors that influence stock prices can help traders to develop a better understanding of the stock market and make more informed decisions in the future. Overall, the stock prediction tool using machine learning can provide new traders with a valuable resource for enhancing their knowledge and performance in the stock market.
