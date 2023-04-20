@@ -1,12 +1,11 @@
 # StockPredictionModel
 
-This program is designed to help predict the stock prices of any valid stock ticker using a machine learning model.
-
 # Usage
 
 To use this program, you will need to run two scripts:
 
 StockModelTraining.ipynb: This script loads and creates a pickle file with the machine learning model. This script only needs to be run once to generate the model.
+
 StockPredictionApp.ipynb: This script loads the trained model and allows you to input any valid stock ticker to train/predict the model off of.
 You can run these scripts using Jupyter Notebook or any other similar environment.
 
